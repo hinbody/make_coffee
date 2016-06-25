@@ -1,0 +1,2 @@
+module CoffeemakersHelper
+end
